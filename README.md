@@ -1,2 +1,2 @@
-# data_science_project_python
+# Data Science Project (Python)
 Data Science Project Portfolio (Python)
